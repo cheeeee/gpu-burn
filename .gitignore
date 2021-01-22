@@ -1,6 +1,7 @@
 
-gpu_burn-drv\.o
+src/gpu_burn-drv\.o
 
-compare\.ptx
+src/compare\.ptx
 
-gpu_burn
+src/gpu_burn
+build/
